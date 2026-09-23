@@ -10,6 +10,11 @@ namespace Calculator_App
         {
             Name = name;
         }
+
+        public static int Sum(int x,int y)
+        {
+            return x + y;
+        }
       
     }
     internal class Program
