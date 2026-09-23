@@ -6,6 +6,7 @@ namespace Calculator_App
         static void Main(string[] args)
         {
             Console.WriteLine("Calculator App");
+            Console.WriteLine("Local");
         }
     }
 }
